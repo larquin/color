@@ -2,7 +2,7 @@
 
 This project is a fork of the excellent Color package for Golang http://github.com/fatih/color
 
-# Color [![GoDoc](https://godoc.org/github.com/larquin/color?status.svg)](https://godoc.org/github.com/larquin/color)
+# Color [![GoDoc](https://godoc.org/github.com/larquin/color?status.svg)](https://godoc.org/github.com/larquin/color)[![Build Status](https://travis-ci.org/larquin/color.svg?branch=master)](https://travis-ci.org/larquin/color)
 
 Color lets you use colorized outputs in terms of [ANSI Escape
 Codes](http://en.wikipedia.org/wiki/ANSI_escape_code#Colors) in Go (Golang). It
