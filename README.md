@@ -19,9 +19,6 @@ suits you.
 go get github.com/larquin/color
 ```
 
-Note that the `vendor` folder is here for stability. Remove the folder if you
-already have the dependencies in your GOPATH.
-
 ## Examples
 
 ### Standard colors
